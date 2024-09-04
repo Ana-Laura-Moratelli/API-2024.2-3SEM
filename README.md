@@ -25,7 +25,7 @@
 - Mockups criados e revisados pela equipe.
 - Refletem critérios de aceitação e necessidades dos usuários.
 
-## DoD (Definition of Done)
+## DoD (Definition of Done):
 ### Código
 - Completo e implementa todos os critérios de aceitação.
 - Todos os testes escritos e passando com sucesso.
