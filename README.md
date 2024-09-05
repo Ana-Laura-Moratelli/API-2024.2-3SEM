@@ -21,20 +21,20 @@
 - Modelo de dados definido e documentado.
 - Campos, tipos de dados e relações claramente especificados.
 
-### Mockups
-- Mockups criados e revisados pela equipe.
-- Refletem critérios de aceitação e necessidades dos usuários.
-
 ## DoD (Definition of Done):
 ### Código
 - Completo e implementa todos os critérios de aceitação.
 - Todos os testes escritos e passando com sucesso.
 
+### Commit
+- Todos os commits estão devidamente documentados com mensagens claras e descritivas.
+- Os commits seguem o padrão de nomenclatura acordado pela equipe (ex: "feat:", "fix:").
+
 ### Mockups
 - Mockups na interface funcionam conforme esperado.
 - Experiência do usuário corresponde aos critérios definidos.
 
-### Manual do Usuário (Online)
+### Manual do Usuário
 - O manual do usuário está completo e disponível online.
 - Inclui instruções passo a passo sobre como usar todas as funcionalidades do produto.
 
