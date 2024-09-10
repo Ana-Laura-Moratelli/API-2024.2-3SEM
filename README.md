@@ -1,5 +1,8 @@
 <img src="documentacao/media/banner_apresentacao.png">
 
+## 💻 Tecnologias 
+<img src="documentacao/media/tecnologias.png">
+
 ## DoR (Definitions of Ready):
 ### User Stories
 - Definidas e compreendidas por todos.
