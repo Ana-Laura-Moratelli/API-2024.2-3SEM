@@ -1,13 +1,21 @@
 <img src="documentacao/media/banner_apresentacao.png">
 
+<br>
+
 ## 🎯 Objetivo
 Este projeto tem como objetivo desenvolver um portal de transparência para a Fundação de Apoio à Pesquisa de Pós-Graduandos (FAPG). Nossa meta é entregar uma plataforma robusta e eficiente, com funcionalidades que permitam a inserção de projetos, a realização de buscas avançadas por meio de filtros e a geração de estatísticas apresentadas em gráficos interativos, promovendo um acesso transparente e facilitado às informações públicas.
+
+<br>
 
 ## 💻 Tecnologias 
 <img src="documentacao/media/tecnologias.png">
 
-## Padrões de Commit
+<br>
+
+## 📨 Padrões de Commit
 <img src="documentacao/media/padroes.png">
+
+<br>
 
 ## DoR (Definitions of Ready):
 ### User Stories
@@ -25,6 +33,8 @@ Este projeto tem como objetivo desenvolver um portal de transparência para a Fu
 ### Modelo de Dados
 - Modelo de dados definido e documentado.
 - Campos, tipos de dados e relações claramente especificados.
+
+<br>
 
 ## DoD (Definition of Done):
 ### Código
@@ -46,6 +56,8 @@ Este projeto tem como objetivo desenvolver um portal de transparência para a Fu
 ### Guia de Instalação
 - O guia de instalação detalha todos os passos necessários para configurar e instalar o software em diferentes plataformas ou ambientes.
 - Inclui requisitos de sistema, dependências e configurações de software/hardware.
+
+<br>
 
 ## 👥 Membros:
 
