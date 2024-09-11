@@ -3,6 +3,10 @@
 ## 💻 Tecnologias 
 <img src="documentacao/media/tecnologias.png">
 
+## Padrões de Commit
+<img src="documentacao/media/padroes.png">
+<!-- <img src="documentacao/media/padroes.png"> -->
+
 ## DoR (Definitions of Ready):
 ### User Stories
 - Definidas e compreendidas por todos.
