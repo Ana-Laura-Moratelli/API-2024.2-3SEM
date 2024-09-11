@@ -1,11 +1,13 @@
 <img src="documentacao/media/banner_apresentacao.png">
 
+## 🎯 Objetivo
+Este projeto tem como objetivo desenvolver um portal de transparência para a Fundação de Apoio à Pesquisa de Pós-Graduandos (FAPG). Nossa meta é entregar uma plataforma robusta e eficiente, com funcionalidades que permitam a inserção de projetos, a realização de buscas avançadas por meio de filtros e a geração de estatísticas apresentadas em gráficos interativos, promovendo um acesso transparente e facilitado às informações públicas.
+
 ## 💻 Tecnologias 
 <img src="documentacao/media/tecnologias.png">
 
 ## Padrões de Commit
 <img src="documentacao/media/padroes.png">
-<!-- <img src="documentacao/media/padroes.png"> -->
 
 ## DoR (Definitions of Ready):
 ### User Stories
@@ -15,10 +17,6 @@
 ### Critério de Aceitação
 - Mensurável e testável.
 - Descreve claramente quando a funcionalidade está completa.
-
-### Estimativa
-- Cada história foi estimada pela equipe.
-- Estimativas discutidas e acordadas por todos.
 
 ### Tarefas
 - Tarefas identificadas e documentadas para cada história.
