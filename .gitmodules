@@ -1,0 +1,6 @@
+[submodule "API-3-BACK"]
+	path = API-3-BACK
+	url = https://github.com/Sync-FATEC/API-3-BACK.git
+[submodule "API-3-FRONT"]
+	path = API-3-FRONT
+	url = https://github.com/Sync-FATEC/API-3-FRONT.git
