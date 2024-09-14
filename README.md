@@ -1,23 +1,68 @@
-<img src="documentacao/media/banner_apresentacao.png">
+<h2 id='topo'><img src="documentacao/media/banner_apresentacao.png"></h2>
+
+<div align="center">
+<a href="#objetivo"> 🎯 Objetivo </a> |
+<a href="#tecnologias"> 💻 Tecnologias </a> |
+<a href="#padroes-de-commit"> 📨 Padrões de Commit </a> |
+<a href="#manual-usuario"> 📃 Manual do Usuário </a> |
+<a href="#requisitos"> 📚 Requisitos do Cliente </a> |
+<a href="#product-backlog"> 📖 Product Backlog </a> |
+<a href="#sprints"> 📌 Sprints </a> |
+<a href="#dor"> DoR </a> |
+<a href="#dod"> DoD </a> |
+<a href="#membros"> 👥 Membros </a> 
+
+</div>
 
 <br>
 
-## 🎯 Objetivo
+<h2 id='objetivo'> 🎯 Objetivo </h2>
 Este projeto tem como objetivo desenvolver um portal de transparência para a Fundação de Apoio à Pesquisa de Pós-Graduandos (FAPG). Nossa meta é entregar uma plataforma robusta e eficiente, com funcionalidades que permitam a inserção de projetos, a realização de buscas avançadas por meio de filtros e a geração de estatísticas apresentadas em gráficos interativos, promovendo um acesso transparente e facilitado às informações públicas.
 
 <br>
 
-## 💻 Tecnologias 
+<h2 id='tecnologias'> 💻 Tecnologias </h2>
 <img src="documentacao/media/tecnologias.png">
 
 <br>
 
-## 📨 Padrões de Commit
+<h2 id='padroes-de-commit'> 📨 Padrões de Commit </h2>
 <img src="documentacao/media/padroes.png">
 
 <br>
 
-## DoR (Definitions of Ready):
+<h2 id='manual-usuario'> 📃 Manual do Usuário </h2>
+Em desenvolvimento!
+
+<br>
+
+<h2 id='requisitos'> 📚 Requisitos do Cliente </h2>
+Em desenvolvimento!
+
+<br>
+
+<h2 id='product-backlog'> 📖 Product Backlog </h2>
+Em desenvolimento!
+
+<br>
+
+<h2 id='sprints'> 📌 Sprints </h2>
+
+### Sprint 01
+Em desenvolvimento!
+
+### Sprint 02
+Em breve!
+
+### Sprint 03
+Em breve!
+
+### Sprint 04
+Em breve!
+
+<br>
+
+<h2 id='dor'> DoR (Definitions of Ready) </h2>
 ### User Stories
 - Definidas e compreendidas por todos.
 - Pequenas o suficiente para serem feitas em um sprint.
@@ -36,7 +81,7 @@ Este projeto tem como objetivo desenvolver um portal de transparência para a Fu
 
 <br>
 
-## DoD (Definition of Done):
+<h2 id='dod'> DoD (Definition of Done) </h2>
 ### Código
 - Completo e implementa todos os critérios de aceitação.
 - Todos os testes escritos e passando com sucesso.
@@ -59,7 +104,7 @@ Este projeto tem como objetivo desenvolver um portal de transparência para a Fu
 
 <br>
 
-## 👥 Membros:
+<h2 id='membros'> 👥 Membros </h2>
 
 | Foto | Nome | Função | Github | Linkedin |
 | :---------: | :---------: | :---------------------: | :-----------------: | :-------: |
@@ -69,3 +114,5 @@ Este projeto tem como objetivo desenvolver um portal de transparência para a Fu
 | <img src="https://github.com/joaogabgr.png?size=50" width=50px> | João Gabriel Solis | Desenvolvedor | <a href="https://github.com/joaogabgr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/joaoggbs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | <img src="https://github.com/joycesilvaaa.png?size=50" width=50px> | Joyce Silva | Desenvolvedora | <a href="https://github.com/joycesilvaaa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/joyce-silva-79a4b9287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | <img src="https://github.com/yuribragga.png?size=50" width=50px> | Yuri Braga | Desenvolvedor | <a href="https://github.com/yuribragga"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/yuri-braga/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+
+<a href='#topo'> Voltar ao topo </a>
