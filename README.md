@@ -42,7 +42,24 @@ Em desenvolvimento!
 <br>
 
 <h2 id='product-backlog'> 📖 Product Backlog </h2>
-Em desenvolimento!
+
+| Rank | Prioridade  | User Story                                              | Estimativa | Sprint    | Req. Parceiro |
+|----|-------|-----------------------------------------------------------------|------------|-----------|---------------|
+| 01 | Alta  | Como administrador, eu quero acessar um portal exclusivo da área do administrador, para gerenciar projetos e visualizar relatórios detalhados, garantindo a manutenção e a segurança dos dados do sistema.        | 8 | 1 | 4 |
+| 02 | Alta  | Como administrador, eu quero cadastrar projetos, para que eles estejam disponíveis no Portal de Transparência.      | 8 | 1 | 2 |
+| 03 | Alta  | Como administrador, eu quero importar dados da aplicação legada, para garantir que os projetos antigos estejam acessíveis no novo portal. | 13 | 1 | 4 |
+| 04 | Alta  | Como usuário, eu quero visualizar os projetos no Portal de Transparência.      | 5 | 1 | 3 |
+| 05 | Alta | Como usuário, eu quero visualizar os detalhes completos de um projeto ao selecioná-lo na pesquisa, para entender todos os aspectos do projeto.       | 5 | 1 | 3 |
+| 06 | Media | Como usuário, eu quero pesquisar projetos por coordenador, para encontrar informações específicas.       | 5  | 2 | 3 |
+| 07 | Media | Como usuário, eu quero pesquisar projetos por empresa, para encontrar informações específicas.       | 5 | 2 | 3 |
+| 08 | Media | Como usuário, eu quero pesquisar projetos por status (em andamento, encerrados e não iniciados), para acompanhar o progresso dos projetos.       | 5 | 2 | 3 |
+| 09 | Media | Como usuário, eu quero pesquisar projetos por classificação, para acompanhar o progresso dos projetos.       | 5 | 2 | 3 |
+| 10 | Media |  Como usuário, eu quero pesquisar projetos por data de início ou término, para encontrar informações específicas.       | 5 | 2 | 3 |
+| 11 | Media | Como administrador, eu quero editar projetos existentes, para manter as informações atualizadas.       | 3 | 3 | 2 |
+| 12 | Media | Como administrador, eu quero excluir projetos obsoletos ou incorretos, para manter os dados atualizados.       | 3 | 3 | 2 |
+| 13 | Media | Como administrador, eu quero visualizar dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.       | 8 | 3 | 5 |
+| 14 | Baixa | Como administrador, eu quero exportar os dados do dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.       | 8 | 4 | 5 |
+| 15 | Baixa | Como administrador, eu quero exportar dados de um projeto selecionado,  para obter uma visão geral e rápida do estado do projeto.       | 8 | 4 | 5 |
 
 <br>
 
