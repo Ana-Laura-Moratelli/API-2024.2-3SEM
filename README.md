@@ -75,9 +75,9 @@ Em desenvolvimento!
 | Sprints | Data de Inicio | Data de Entrega |Documentos | Status |
 | ------- | -------------- | --------------- | --------- | ------ |
 | Sprint 1 | 09/09/2024 | 29/09/2024 | Em desenvolvimento! | 🔁 |
-| Sprint 1 | 30/09/2024 | 20/10/2024 | Em desenvolvimento! | ❌ |
-| Sprint 1 | 21/10/2024 | 10/11/2024 | Em desenvolvimento! | ❌ |
-| Sprint 1 | 11/11/2024 | 01/12/2024 | Em desenvolvimento! | ❌ |
+| Sprint 2 | 30/09/2024 | 20/10/2024 | Em desenvolvimento! | ❌ |
+| Sprint 3 | 21/10/2024 | 10/11/2024 | Em desenvolvimento! | ❌ |
+| Sprint 4 | 11/11/2024 | 01/12/2024 | Em desenvolvimento! | ❌ |
 
 <br>
 
