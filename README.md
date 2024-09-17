@@ -36,8 +36,15 @@ Em desenvolvimento!
 
 <br>
 
-<h2 id='requisitos'> 📚 Requisitos do Cliente </h2>
-Em desenvolvimento!
+<h2 id='requisitos'> 📚 Requisitos do Parceiro </h2>
+
+| Número | Requisito do Parceiro |
+| ------ | --------------------- |
+| 1 | Ferramenta de importação de dados da aplicação legada no novo banco de dados projetado |
+| 2 | Interface para cadastro de novos projetos |
+| 3 | Interface de pesquisa de projetos |
+| 4 | Interface de cadastro de usuários |
+| 5 | Relatórios/dashboards de projetos desenvolvidos, com diferentes tipos de filtros |
 
 <br>
 
@@ -65,17 +72,12 @@ Em desenvolvimento!
 
 <h2 id='sprints'> 📌 Sprints </h2>
 
-### Sprint 01
-Em desenvolvimento!
-
-### Sprint 02
-Em breve!
-
-### Sprint 03
-Em breve!
-
-### Sprint 04
-Em breve!
+| Sprints | Data de Inicio | Data de Entrega |Documentos | Status |
+| ------- | -------------- | --------------- | --------- | ------ |
+| Sprint 1 | 09/09/2024 | 29/09/2024 | Em desenvolvimento! | 🔁 |
+| Sprint 1 | 30/09/2024 | 20/10/2024 | Em desenvolvimento! | ❌ |
+| Sprint 1 | 21/10/2024 | 10/11/2024 | Em desenvolvimento! | ❌ |
+| Sprint 1 | 11/11/2024 | 01/12/2024 | Em desenvolvimento! | ❌ |
 
 <br>
 
