@@ -2,16 +2,16 @@
 
 <div align="center">
 <a href="#objetivo"> 🎯 Objetivo </a> |
-<a href="#tecnologias"> 💻 Tecnologias </a> |
-<a href="#padroes-de-commit"> 📨 Padrões de Commit </a> |
-<a href="#manual-usuario"> 📃 Manual do Usuário </a> |
-<a href="#requisitos"> 📚 Requisitos do Cliente </a> |
+<a href="#proposta"> 📧 Proposta de Solução </a>
+<a href="#requisitos"> 📚 Requisitos do Parceiro </a> |
 <a href="#product-backlog"> 📖 Product Backlog </a> |
-<a href="#sprints"> 📌 Sprints </a> |
 <a href="#dor"> DoR </a> |
 <a href="#dod"> DoD </a> |
+<a href="#sprints"> 📌 Sprints </a> |
+<a href="#tecnologias"> 💻 Tecnologias </a> |
+<a href="#manual-usuario"> 📃 Manual do Usuário </a> |
+<a href="#padroes-de-commit"> 📨 Padrões de Commit </a> |
 <a href="#membros"> 👥 Membros </a> 
-
 </div>
 
 <br>
@@ -21,18 +21,14 @@ Este projeto tem como objetivo desenvolver um portal de transparência para a Fu
 
 <br>
 
-<h2 id='tecnologias'> 💻 Tecnologias </h2>
-<img src="documentacao/media/tecnologias.png">
+<h2 id='proposta'> 📧 Proposta de Solução </h2>
+Nossa proposta é desenvolver um sistema moderno e eficiente, utilizando novas tecnologias, permitindo a adição e o gerenciamento ágil de projetos.
 
-<br>
+Arquitetura de Microserviços: Garantiremos flexibilidade e escalabilidade com uma estrutura modular, facilitando a manutenção e a expansão futura do sistema.
 
-<h2 id='padroes-de-commit'> 📨 Padrões de Commit </h2>
-<img src="documentacao/media/padroes.png">
+Gestão Eficiente de Projetos: Usuários poderão adicionar, monitorar e gerenciar projetos de forma simples, com uma interface que permite a visualização detalhada dos projetos.
 
-<br>
-
-<h2 id='manual-usuario'> 📃 Manual do Usuário </h2>
-Em desenvolvimento!
+Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com gráficos interativos que facilitam a compreensão rápida e clara das informações.
 
 <br>
 
@@ -70,18 +66,8 @@ Em desenvolvimento!
 
 <br>
 
-<h2 id='sprints'> 📌 Sprints </h2>
-
-| Sprints | Data de Inicio | Data de Entrega |Documentos | Status |
-| ------- | -------------- | --------------- | --------- | ------ |
-| Sprint 1 | 09/09/2024 | 29/09/2024 | Em desenvolvimento! | 🔁 |
-| Sprint 2 | 30/09/2024 | 20/10/2024 | Em desenvolvimento! | ❌ |
-| Sprint 3 | 21/10/2024 | 10/11/2024 | Em desenvolvimento! | ❌ |
-| Sprint 4 | 11/11/2024 | 01/12/2024 | Em desenvolvimento! | ❌ |
-
-<br>
-
 <h2 id='dor'> DoR (Definitions of Ready) </h2>
+
 ### User Stories
 - Definidas e compreendidas por todos.
 - Pequenas o suficiente para serem feitas em um sprint.
@@ -101,6 +87,7 @@ Em desenvolvimento!
 <br>
 
 <h2 id='dod'> DoD (Definition of Done) </h2>
+
 ### Código
 - Completo e implementa todos os critérios de aceitação.
 - Todos os testes escritos e passando com sucesso.
@@ -120,6 +107,32 @@ Em desenvolvimento!
 ### Guia de Instalação
 - O guia de instalação detalha todos os passos necessários para configurar e instalar o software em diferentes plataformas ou ambientes.
 - Inclui requisitos de sistema, dependências e configurações de software/hardware.
+
+<br>
+
+<h2 id='sprints'> 📌 Sprints </h2>
+
+| Sprints | Data de Inicio | Data de Entrega |Documentos | Status |
+| ------- | -------------- | --------------- | --------- | ------ |
+| Sprint 1 | 09/09/2024 | 29/09/2024 | Em desenvolvimento! | 🔁 |
+| Sprint 2 | 30/09/2024 | 20/10/2024 | Em desenvolvimento! | ❌ |
+| Sprint 3 | 21/10/2024 | 10/11/2024 | Em desenvolvimento! | ❌ |
+| Sprint 4 | 11/11/2024 | 01/12/2024 | Em desenvolvimento! | ❌ |
+
+<br>
+
+<h2 id='manual-usuario'> 📃 Manual do Usuário </h2>
+Em desenvolvimento!
+
+<br>
+
+<h2 id='tecnologias'> 💻 Tecnologias </h2>
+<img src="documentacao/media/tecnologias.png">
+
+<br>
+
+<h2 id='padroes-de-commit'> 📨 Padrões de Commit </h2>
+<img src="documentacao/media/padroes.png">
 
 <br>
 
