@@ -57,12 +57,13 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
 | 07 | Media | Como usuário, eu quero pesquisar projetos por empresa, para encontrar informações específicas.       | 5 | 2 | 3 |
 | 08 | Media | Como usuário, eu quero pesquisar projetos por status (em andamento, encerrados e não iniciados), para acompanhar o progresso dos projetos.       | 5 | 2 | 3 |
 | 09 | Media | Como usuário, eu quero pesquisar projetos por classificação, para acompanhar o progresso dos projetos.       | 5 | 2 | 3 |
-| 10 | Media |  Como usuário, eu quero pesquisar projetos por data de início ou término, para encontrar informações específicas.       | 5 | 2 | 3 |
-| 11 | Media | Como administrador, eu quero editar projetos existentes, para manter as informações atualizadas.       | 3 | 3 | 2 |
-| 12 | Media | Como administrador, eu quero excluir projetos obsoletos ou incorretos, para manter os dados atualizados.       | 3 | 3 | 2 |
-| 13 | Media | Como administrador, eu quero visualizar dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.       | 8 | 3 | 5 |
-| 14 | Baixa | Como administrador, eu quero exportar os dados do dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.       | 8 | 4 | 5 |
-| 15 | Baixa | Como administrador, eu quero exportar dados de um projeto selecionado,  para obter uma visão geral e rápida do estado do projeto.       | 8 | 4 | 5 |
+| 10 | Media | Como usuário, eu quero pesquisar projetos por data de início ou término, para encontrar informações específicas.       | 5 | 2 | 3 |
+| 11 | Media | Como usuário, eu quero utilizar uma barra de pesquisa para buscar conteúdos no site com base em palavras-chave, para encontrar informações de maneira rápida e eficiente.  | 5 | 2 | 3 |
+| 12 | Media | Como administrador, eu quero editar projetos existentes, para manter as informações atualizadas.       | 3 | 3 | 2 |
+| 13 | Media | Como administrador, eu quero excluir projetos obsoletos ou incorretos, para manter os dados atualizados.       | 3 | 3 | 2 |
+| 14 | Media | Como administrador, eu quero visualizar dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.       | 8 | 3 | 5 |
+| 15 | Baixa | Como administrador, eu quero exportar os dados do dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.       | 8 | 4 | 5 |
+| 16 | Baixa | Como administrador, eu quero exportar dados de um projeto selecionado,  para obter uma visão geral e rápida do estado do projeto.       | 8 | 4 | 5 |
 
 <br>
 
@@ -112,12 +113,48 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
 
 <h2 id='sprints'> 📌 Sprints </h2>
 
-| Sprints | Data de Inicio | Data de Entrega |Documentos | Status |
-| ------- | -------------- | --------------- | --------- | ------ |
-| Sprint 1 | 09/09/2024 | 29/09/2024 | Em desenvolvimento! | 🔁 |
-| Sprint 2 | 30/09/2024 | 20/10/2024 | Em desenvolvimento! | ❌ |
-| Sprint 3 | 21/10/2024 | 10/11/2024 | Em desenvolvimento! | ❌ |
-| Sprint 4 | 11/11/2024 | 01/12/2024 | Em desenvolvimento! | ❌ |
+<table>
+  <thead>
+    <tr align="center">
+      <th>Sprints</th>
+      <th>Data de Início</th>
+      <th>Data de Término</th>
+      <th>Documentos</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+ <tbody>
+  <tr align="center">
+    <td>01</td>
+    <td>09/09/2024</td>
+    <td>29/09/2024</td>
+    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint01/sprint01.md">Relatório</a></td> 
+    <td>🔁</td>
+  </tr>
+  <tr align="center">
+    <td>02</td>
+    <td>30/09/2024</td>
+    <td>20/10/2024</td>
+    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint02/sprint02.md">Relatório</a></td> 
+    <td>❌</td>
+  </tr>
+  <tr align="center">
+    <td>03</td>
+    <td>21/10/2024</td>
+    <td>10/11/2024</td>
+    <td>Em desenvolvimento!</td> 
+    <td>❌</td>
+  </tr>
+  <tr align="center">
+    <td>04</td>
+    <td>11/11/2024</td>
+    <td>01/12/2024</td>
+    <td>Em desenvolvimento!</td> 
+    <td>❌</td>
+  </tr>
+</tbody>
+</table>
+
 
 <br>
 
