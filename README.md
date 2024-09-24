@@ -113,12 +113,47 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
 
 <h2 id='sprints'> 📌 Sprints </h2>
 
-| Sprints | Data de Inicio | Data de Entrega |Documentos | Status |
-| ------- | -------------- | --------------- | --------- | ------ |
-| Sprint 1 | 09/09/2024 | 29/09/2024 | Em desenvolvimento! | 🔁 |
-| Sprint 2 | 30/09/2024 | 20/10/2024 | Em desenvolvimento! | ❌ |
-| Sprint 3 | 21/10/2024 | 10/11/2024 | Em desenvolvimento! | ❌ |
-| Sprint 4 | 11/11/2024 | 01/12/2024 | Em desenvolvimento! | ❌ |
+<table>
+  <thead>
+    <tr>
+      <th>Sprints</th>
+      <th>Data de Início</th>
+      <th>Data de Término</th>
+      <th>Documentos</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+ <tbody>
+  <tr>
+    <td align="center">01</td>
+    <td>09/09/2024</td>
+    <td>29/09/2024</td>
+    <td align="center"><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint01/sprint01.md">Relatório</a></td> 
+    <td align="center">🔁</td>
+  </tr>
+  <tr>
+    <td align="center">02</td>
+    <td>30/09/2024</td>
+    <td>20/10/2024</td>
+    <td align="center"><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint02/sprint02.md">Relatório</a></td> 
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center">03</td>
+    <td>21/10/2024</td>
+    <td>10/11/2024</td>
+    <td align="center">Em desenvolvimento!</td> 
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center">04</td>
+    <td>11/11/2024</td>
+    <td>01/12/2024</td>
+    <td align="center">Em desenvolvimento!</td> 
+    <td align="center">❌</td>
+  </tr>
+</tbody>
+</table>
 
 <br>
 
