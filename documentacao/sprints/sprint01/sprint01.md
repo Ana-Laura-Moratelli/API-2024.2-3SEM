@@ -50,4 +50,4 @@
     </table>
 
 <h2>Modelo de Dados</h2>
-<img src="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint01/banco-de-dados.jpg">
+<img src="https://github.com/Sync-FATEC/API-2024.2-3SEM/blob/main/documentacao/sprints/sprint01/banco-de-dados.jpg">

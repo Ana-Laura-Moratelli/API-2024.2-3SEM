@@ -115,7 +115,7 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
 
 <table>
   <thead>
-    <tr>
+    <tr align="center">
       <th>Sprints</th>
       <th>Data de Início</th>
       <th>Data de Término</th>
@@ -124,36 +124,37 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
     </tr>
   </thead>
  <tbody>
-  <tr>
-    <td align="center">01</td>
+  <tr align="center">
+    <td>01</td>
     <td>09/09/2024</td>
     <td>29/09/2024</td>
-    <td align="center"><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint01/sprint01.md">Relatório</a></td> 
-    <td align="center">🔁</td>
+    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint01/sprint01.md">Relatório</a></td> 
+    <td>🔁</td>
   </tr>
-  <tr>
-    <td align="center">02</td>
+  <tr align="center">
+    <td>02</td>
     <td>30/09/2024</td>
     <td>20/10/2024</td>
-    <td align="center"><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint02/sprint02.md">Relatório</a></td> 
-    <td align="center">❌</td>
+    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint02/sprint02.md">Relatório</a></td> 
+    <td>❌</td>
   </tr>
-  <tr>
-    <td align="center">03</td>
+  <tr align="center">
+    <td>03</td>
     <td>21/10/2024</td>
     <td>10/11/2024</td>
-    <td align="center">Em desenvolvimento!</td> 
-    <td align="center">❌</td>
+    <td>Em desenvolvimento!</td> 
+    <td>❌</td>
   </tr>
-  <tr>
-    <td align="center">04</td>
+  <tr align="center">
+    <td>04</td>
     <td>11/11/2024</td>
     <td>01/12/2024</td>
-    <td align="center">Em desenvolvimento!</td> 
-    <td align="center">❌</td>
+    <td>Em desenvolvimento!</td> 
+    <td>❌</td>
   </tr>
 </tbody>
 </table>
+
 
 <br>
 
