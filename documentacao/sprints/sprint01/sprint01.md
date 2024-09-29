@@ -49,5 +49,17 @@
         </tbody>
     </table>
 
+<h2> MVP visão usuário comum </h2>
+<video width="600" controls>
+  <source src="./usuario.mp4" type="video/mp4">
+  Seu navegador não suporta sistema de vídeo.
+</video>
+
+<h2> MVP visão usuário administrador </h2>
+<video width="600" controls>
+  <source src="./admin.mp4" type="video/mp4">
+  Seu navegador não suporta sistema de vídeo.
+</video>
+
 <h2>Modelo de Dados</h2>
 <img src="https://github.com/Sync-FATEC/API-2024.2-3SEM/blob/main/documentacao/sprints/sprint01/banco-de-dados.jpg">

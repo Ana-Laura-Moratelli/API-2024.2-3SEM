@@ -2,11 +2,12 @@
 
 <div align="center">
 <a href="#objetivo"> 🎯 Objetivo </a> |
-<a href="#proposta"> 📧 Proposta de Solução </a>
+<a href="#proposta"> 📧 Proposta de Solução </a> |
 <a href="#requisitos"> 📚 Requisitos do Parceiro </a> |
 <a href="#product-backlog"> 📖 Product Backlog </a> |
 <a href="#dor"> DoR </a> |
 <a href="#dod"> DoD </a> |
+<a href="mvp"> 📎 MVP </a> |
 <a href="#sprints"> 📌 Sprints </a> |
 <a href="#tecnologias"> 💻 Tecnologias </a> |
 <a href="#manual-usuario"> 📃 Manual do Usuário </a> |
@@ -110,6 +111,12 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
 - Inclui requisitos de sistema, dependências e configurações de software/hardware.
 
 <br>
+
+<h2 id='mvp'>📎 MVP</h2>
+<video width="600" controls>
+  <source src="./documentacao/sprints/sprint01/mvp_completo.mp4" type="video/mp4">
+  Seu navegador não suporta sistema de vídeo.
+</video>
 
 <h2 id='sprints'> 📌 Sprints </h2>
 
