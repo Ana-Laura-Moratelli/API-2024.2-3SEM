@@ -49,11 +49,16 @@
         </tbody>
     </table>
 
-<h2> MVP Usuário Comum </h2>
-<video src="https://github.com/user-attachments/assets/46016ecd-f6fc-4045-be23-fdb837590e7c"></video>
-
-<h2> MVP Usuário Administrador </h2>
-<video src="https://github.com/user-attachments/assets/d408ee25-9402-4ba4-af8c-e11b8ace1de2"></video>
-
 <h2>Modelo de Dados</h2>
 <img src="https://github.com/Sync-FATEC/API-2024.2-3SEM/blob/main/documentacao/sprints/sprint01/banco-de-dados.jpg">
+
+<h2>DoD (Definition of Done)</h2>
+
+<h2>Mockups</h2>
+<h3>Usuário Comum </h3>
+
+<video src="https://github.com/user-attachments/assets/46016ecd-f6fc-4045-be23-fdb837590e7c"></video>
+
+<h3>Usuário Administrador </h3>
+
+<video src="https://github.com/user-attachments/assets/d408ee25-9402-4ba4-af8c-e11b8ace1de2"></video>

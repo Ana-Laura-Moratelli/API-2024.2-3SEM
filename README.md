@@ -132,14 +132,14 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
     <td>01</td>
     <td>09/09/2024</td>
     <td>29/09/2024</td>
-    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint01/sprint01.md">DoR</a></td> 
+    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint01/sprint01.md">Relatório</a></td> 
     <td>✅</td>
   </tr>
   <tr align="center">
     <td>02</td>
     <td>30/09/2024</td>
     <td>20/10/2024</td>
-    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint02/sprint02.md">DoR</a></td> 
+    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint02/sprint02.md">Relatório</a></td> 
     <td>🔁</td>
   </tr>
   <tr align="center">
