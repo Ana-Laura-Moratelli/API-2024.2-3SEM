@@ -7,7 +7,7 @@
 <a href="#product-backlog"> 📖 Product Backlog </a> |
 <a href="#dor"> DoR </a> |
 <a href="#dod"> DoD </a> |
-<a href="mvp"> 📎 MVP </a> |
+<a href="#mvp"> 📎 MVP </a> |
 <a href="#sprints"> 📌 Sprints </a> |
 <a href="#tecnologias"> 💻 Tecnologias </a> |
 <a href="#manual-usuario"> 📃 Manual do Usuário </a> |
@@ -113,10 +113,7 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
 <br>
 
 <h2 id='mvp'>📎 MVP</h2>
-<video width="600" controls>
-  <source src="./documentacao/sprints/sprint01/mvp_completo.mp4" type="video/mp4">
-  Seu navegador não suporta sistema de vídeo.
-</video>
+<video src="https://github.com/user-attachments/assets/c7db084c-06f8-4b49-ba67-1303ac2c0e5e"></video>
 
 <h2 id='sprints'> 📌 Sprints </h2>
 
@@ -136,14 +133,14 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
     <td>09/09/2024</td>
     <td>29/09/2024</td>
     <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint01/sprint01.md">DoR</a></td> 
-    <td>🔁</td>
+    <td>✅</td>
   </tr>
   <tr align="center">
     <td>02</td>
     <td>30/09/2024</td>
     <td>20/10/2024</td>
     <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint02/sprint02.md">DoR</a></td> 
-    <td>❌</td>
+    <td>🔁</td>
   </tr>
   <tr align="center">
     <td>03</td>
