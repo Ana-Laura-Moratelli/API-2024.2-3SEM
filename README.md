@@ -163,7 +163,7 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
 <br>
 
 <h2 id='manual-usuario'> 📃 Manual do Usuário </h2>
-Em desenvolvimento!
+<a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/blob/main/documentacao/ManualdoUsuario.pdf">Clique Aqui</a>
 
 <br>
 
