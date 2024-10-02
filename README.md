@@ -47,24 +47,164 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
 
 <h2 id='product-backlog'> 📖 Product Backlog </h2>
 
-| Rank | Prioridade  | User Story                                              | Estimativa | Sprint    | Req. Parceiro |
-|----|-------|-----------------------------------------------------------------|------------|-----------|---------------|
-| 01 | Alta  | Como administrador, eu quero acessar um portal exclusivo da área do administrador, para gerenciar projetos e visualizar relatórios detalhados, garantindo a manutenção e a segurança dos dados do sistema.        | 8 | 1 | 4 |
-| 02 | Alta  | Como administrador, eu quero cadastrar projetos, para que eles estejam disponíveis no Portal de Transparência.      | 8 | 1 | 2 |
-| 03 | Alta  | Como administrador, eu quero importar dados da aplicação legada, para garantir que os projetos antigos estejam acessíveis no novo portal. | 13 | 1 | 4 |
-| 04 | Alta  | Como usuário, eu quero visualizar os projetos no Portal de Transparência.      | 5 | 1 | 3 |
-| 05 | Alta | Como usuário, eu quero visualizar os detalhes completos de um projeto ao selecioná-lo na pesquisa, para entender todos os aspectos do projeto.       | 5 | 1 | 3 |
-| 06 | Media | Como usuário, eu quero pesquisar projetos por coordenador, para encontrar informações específicas.       | 5  | 2 | 3 |
-| 07 | Media | Como usuário, eu quero pesquisar projetos por empresa, para encontrar informações específicas.       | 5 | 2 | 3 |
-| 08 | Media | Como usuário, eu quero pesquisar projetos por status (em andamento, encerrados e não iniciados), para acompanhar o progresso dos projetos.       | 5 | 2 | 3 |
-| 09 | Media | Como usuário, eu quero pesquisar projetos por classificação, para acompanhar o progresso dos projetos.       | 5 | 2 | 3 |
-| 10 | Media | Como usuário, eu quero pesquisar projetos por data de início ou término, para encontrar informações específicas.       | 5 | 2 | 3 |
-| 11 | Media | Como usuário, eu quero utilizar uma barra de pesquisa para buscar conteúdos no site com base em palavras-chave, para encontrar informações de maneira rápida e eficiente.  | 5 | 2 | 3 |
-| 12 | Media | Como administrador, eu quero editar projetos existentes, para manter as informações atualizadas.       | 3 | 3 | 2 |
-| 13 | Media | Como administrador, eu quero excluir projetos obsoletos ou incorretos, para manter os dados atualizados.       | 3 | 3 | 2 |
-| 14 | Media | Como administrador, eu quero visualizar dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.       | 8 | 3 | 5 |
-| 15 | Baixa | Como administrador, eu quero exportar os dados do dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.       | 8 | 4 | 5 |
-| 16 | Baixa | Como administrador, eu quero exportar dados de um projeto selecionado,  para obter uma visão geral e rápida do estado do projeto.       | 8 | 4 | 5 |
+<table>
+    <thead>
+        <tr align="center">
+            <th>Rank</th>
+            <th>Prioridade</th>
+            <th>User Story</th>
+            <th>Estimativa</th>
+            <th>Sprint</th>
+            <th>Req. Parceiro</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td>1</td>
+            <td>ALTA</td>
+            <td>Como administrador, eu quero acessar um portal exclusivo da área do administrador, para gerenciar projetos e visualizar relatórios detalhados, garantindo a manutenção e a segurança dos dados do sistema.</td>
+            <td>8</td>
+            <td>1</td>
+            <td>4</td>
+        </tr>
+        <tr align="center">
+            <td>2</td>
+            <td>ALTA</td>
+            <td>Como administrador, eu quero cadastrar projetos, para que eles estejam disponíveis no Portal de Transparência.</td>
+            <td>8</td>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>3</td>
+            <td>ALTA</td>
+            <td>Como administrador, eu quero importar dados da aplicação legada, para garantir que os projetos antigos estejam acessíveis no novo portal.</td>
+            <td>13</td>
+            <td>1</td>
+            <td>4</td>
+        </tr>
+        <tr align="center">
+            <td>4</td>
+            <td>ALTA</td>
+            <td>Como usuário, eu quero visualizar os projetos no Portal de Transparência.</td>
+            <td>5</td>
+            <td>1</td>
+            <td>3</td>
+        </tr>
+        <tr align="center">
+            <td>5</td>
+            <td>ALTA</td>
+            <td>Como usuário, eu quero visualizar os detalhes completos de um projeto ao selecioná-lo na pesquisa, para entender todos os aspectos do projeto.</td>
+            <td>5</td>
+            <td>1</td>
+            <td>3</td>
+        </tr>
+        <tr align="center">
+            <td>6</td>
+            <td>MÉDIA</td>
+            <td>Como usuário, eu quero pesquisar projetos por coordenador, para encontrar informações específicas.</td>
+            <td>5</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr align="center">
+            <td>7</td>
+            <td>MÉDIA</td>
+            <td>Como usuário, eu quero pesquisar projetos por empresa, para encontrar informações específicas.</td>
+            <td>5</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr align="center">
+            <td>8</td>
+            <td>MÉDIA</td>
+            <td>Como usuário, eu quero pesquisar projetos por status (em andamento, encerrados e não iniciados), para acompanhar o progresso dos projetos.</td>
+            <td>5</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr align="center">
+            <td>9</td>
+            <td>MÉDIA</td>
+            <td>Como usuário, eu quero pesquisar projetos por classificação, para acompanhar o progresso dos projetos.</td>
+            <td>5</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr align="center">
+            <td>10</td>
+            <td>MÉDIA</td>
+            <td>Como usuário, eu quero pesquisar projetos por data de início ou término, para encontrar informações específicas.</td>
+            <td>5</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr align="center">
+            <td>11</td>
+            <td>MÉDIA</td>
+            <td>Como usuário, eu quero utilizar uma barra de pesquisa para buscar conteúdos no site com base em palavras-chave, para encontrar informações de maneira rápida e eficiente.</td>
+            <td>5</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr align="center">
+            <td>12</td>
+            <td>MÉDIA</td>
+            <td>Como administrador, eu quero editar projetos existentes, para manter as informações atualizadas.</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>13</td>
+            <td>MÉDIA</td>
+            <td>Como administrador, eu quero excluir projetos obsoletos ou incorretos, para manter os dados atualizados.</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>14</td>
+            <td>MÉDIA</td>
+            <td>Como administrador, eu quero garantir que conteúdo sensível de projetos não seja exibido para usuários comuns, para proteger informações confidenciais e garantir que apenas usuários autorizados tenham acesso.</td>
+            <td>5</td>
+            <td>3</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>15</td>
+            <td>MÉDIA</td>
+            <td>Como administrador, eu quero visualizar dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.</td>
+            <td>8</td>
+            <td>3</td>
+            <td>5</td>
+        </tr>
+        <tr align="center">
+            <td>16</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero visualizar um histórico de alterações de cada projeto, para rastrear todas as edições realizadas e garantir a integridade dos dados.</td>
+            <td>8</td>
+            <td>4</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>17</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero exportar os dados dos dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.</td>
+            <td>8</td>
+            <td>4</td>
+            <td>5</td>
+        </tr>
+        <tr align="center">
+            <td>18</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero exportar dados de um projeto selecionado, para obter uma visão geral e rápida do estado do projeto.</td>
+            <td>8</td>
+            <td>4</td>
+            <td>5</td>
+        </tr>
+    </tbody>
+</table>
 
 <br>
 
