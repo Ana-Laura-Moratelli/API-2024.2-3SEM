@@ -1,7 +1,5 @@
 <h1 style="text-align: center;">📌DoR (Definition of Ready): Sprint 02</h1>
 
- <h1 style="text-align: center;">📌DoR (Definition of Ready): Sprint 02</h1>
-
 <table>
     <thead>
         <tr>
@@ -71,11 +69,6 @@
         </tr>
     </tbody>
 </table>
-
-
-<h2>Modelo de Dados</h2>
-<img src="https://github.com/Sync-FATEC/API-2024.2-3SEM/blob/main/documentacao/sprints/sprint02/banco-de-dados.jpg">
-
 
 <h2>Modelo de Dados</h2>
 <img src="https://github.com/Sync-FATEC/API-2024.2-3SEM/blob/main/documentacao/sprints/sprint02/banco-de-dados.jpg">
