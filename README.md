@@ -1,4 +1,4 @@
-<h2 id='topo'><img src="documentacao/media/banner_apresentacao.png"></h2>
+<h2 id='topo'><img src="media/banner_apresentacao.png"></h2>
 
 <div align="center">
 <a href="#objetivo"> 🎯 Objetivo </a> |
@@ -53,7 +53,7 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
             <th>Rank</th>
             <th>Prioridade</th>
             <th>User Story</th>
-            <th>Estimativa</th>
+            <th>Planning Poker</th>
             <th>Sprint</th>
             <th>Req. Parceiro</th>
         </tr>
@@ -166,13 +166,23 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
         <tr align="center">
             <td>14</td>
             <td>MÉDIA</td>
-            <td>Como administrador, eu quero garantir que conteúdo sensível de projetos não seja exibido para usuários comuns, para proteger informações confidenciais e garantir que apenas usuários autorizados tenham acesso.</td>
+            <td>Como administrador, eu quero visualizar uma lista dos projetos que estão próximos da data de conclusão,
+Para que eu possa gerenciar as datas e tomar ações necessárias com antecedência.</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>15</td>
+            <td>MÉDIA</td>
+            <td>Como administrador, eu quero garantir que conteúdo sensível de projetos não seja exibido para usuários comuns,
+para proteger informações confidenciais e garantir que apenas usuários autorizados tenham acesso.</td>
             <td>5</td>
             <td>3</td>
             <td>2</td>
         </tr>
         <tr align="center">
-            <td>15</td>
+            <td>16</td>
             <td>MÉDIA</td>
             <td>Como administrador, eu quero visualizar dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.</td>
             <td>8</td>
@@ -180,7 +190,7 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
             <td>5</td>
         </tr>
         <tr align="center">
-            <td>16</td>
+            <td>17</td>
             <td>BAIXA</td>
             <td>Como administrador, eu quero visualizar um histórico de alterações de cada projeto, para rastrear todas as edições realizadas e garantir a integridade dos dados.</td>
             <td>8</td>
@@ -188,7 +198,7 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
             <td>2</td>
         </tr>
         <tr align="center">
-            <td>17</td>
+            <td>18</td>
             <td>BAIXA</td>
             <td>Como administrador, eu quero exportar os dados dos dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.</td>
             <td>8</td>
@@ -196,7 +206,7 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
             <td>5</td>
         </tr>
         <tr align="center">
-            <td>18</td>
+            <td>19</td>
             <td>BAIXA</td>
             <td>Como administrador, eu quero exportar dados de um projeto selecionado, para obter uma visão geral e rápida do estado do projeto.</td>
             <td>8</td>
@@ -212,18 +222,18 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
 
 ### User Stories
 - Definidas e compreendidas por todos.
-- Pequenas o suficiente para serem feitas em um sprint.
+- Pequenas o suficiente para serem feitas em uma sprint.
 
 ### Critério de Aceitação
 - Mensurável e testável.
 - Descreve claramente quando a funcionalidade está completa.
 
 ### Tarefas
-- Tarefas identificadas e documentadas para cada história.
-- Cada tarefa tem um responsável definido.
+- Identificadas e documentadas para cada User Story.
+- Cada tarefa possui um responsável designado.
 
 ### Modelo de Dados
-- Modelo de dados definido e documentado.
+- Definido e documentado.
 - Campos, tipos de dados e relações claramente especificados.
 
 <br>
@@ -231,23 +241,23 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
 <h2 id='dod'> DoD (Definition of Done) </h2>
 
 ### Código
-- Completo e implementa todos os critérios de aceitação.
-- Todos os testes escritos e passando com sucesso.
+- Implementa todos os critérios de aceitação.
+- Todos os testes implementados e executados com sucesso.
 
 ### Commit
-- Todos os commits estão devidamente documentados com mensagens claras e descritivas.
-- Os commits seguem o padrão de nomenclatura acordado pela equipe (ex: "feat:", "fix:").
+- Documentados com mensagens claras e descritivas.
+- Seguem o padrão de nomenclatura acordado pela equipe.
 
 ### Mockups
 - Mockups na interface funcionam conforme esperado.
 - Experiência do usuário corresponde aos critérios definidos.
 
 ### Manual do Usuário
-- O manual do usuário está completo e disponível online.
-- Inclui instruções passo a passo sobre como usar todas as funcionalidades do produto.
+- Completo e disponível online.
+- Inclui instruções de como usar todas as funcionalidades do produto.
 
 ### Guia de Instalação
-- O guia de instalação detalha todos os passos necessários para configurar e instalar o software em diferentes plataformas ou ambientes.
+- Detalha todos os passos para configuração e instalação.
 - Inclui requisitos de sistema, dependências e configurações de software/hardware.
 
 <br>
@@ -272,22 +282,22 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
     <td>01</td>
     <td>09/09/2024</td>
     <td>29/09/2024</td>
-    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint01/sprint01.md">Relatório</a></td> 
+    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/sprints/sprint01/sprint01.md">Relatório</a></td> 
     <td>✅</td>
   </tr>
   <tr align="center">
     <td>02</td>
     <td>30/09/2024</td>
     <td>20/10/2024</td>
-    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/documentacao/sprints/sprint02/sprint02.md">Relatório</a></td> 
-    <td>🔁</td>
+    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/sprints/sprint02/sprint02.md">Relatório</a></td> 
+    <td>✅</td>
   </tr>
   <tr align="center">
     <td>03</td>
     <td>21/10/2024</td>
     <td>10/11/2024</td>
-    <td>Em desenvolvimento!</td> 
-    <td>❌</td>
+    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/sprints/sprint03/sprint03.md">Relatório</a></td> 
+    <td>🔁</td>
   </tr>
   <tr align="center">
     <td>04</td>
@@ -308,12 +318,12 @@ Painel Intuitivo: Desenvolveremos um painel de controle simples e intuitivo, com
 <br>
 
 <h2 id='tecnologias'> 💻 Tecnologias </h2>
-<img src="documentacao/media/tecnologias.png">
+<img src="media/tecnologias.png">
 
 <br>
 
 <h2 id='padroes-de-commit'> 📨 Padrões de Commit </h2>
-<img src="documentacao/media/padroes.png">
+<img src="media/padroes.png">
 
 <br>
 

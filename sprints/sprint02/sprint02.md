@@ -67,8 +67,17 @@
             <td>Implementar a lógica para exclusão de projetos, garantindo a validação da ação através da confirmação do administrador.</td>
             <td>Remover o projeto selecionado do banco de dados.</td>
         </tr>
+        <tr>
+            <td>Como administrador, eu quero visualizar uma lista dos projetos que estão próximos da data de conclusão,
+Para que eu possa gerenciar as datas e tomar ações necessárias com antecedência.</td>
+            <td>A lista deve exibir os projetos ordenados pela data de conclusão (do mais próximo ao mais distante).
+Deve haver um indicador visual para os projetos que faltam na semana para a conclusão.</td>
+            <td>Criar interface para listagem dos projetos ordenados por data de conclusão.</td>
+            <td>Implementar lógica de ordenaçãodos projetos por data de conclusão da semana.</td>
+            <td>Adicionar índice na coluna de data de conclusão.</td>
+        </tr>
     </tbody>
 </table>
 
 <h2>Modelo de Dados</h2>
-<img src="https://github.com/Sync-FATEC/API-2024.2-3SEM/blob/main/documentacao/sprints/sprint02/banco-de-dados.jpg">
+<img src="https://github.com/Sync-FATEC/API-2024.2-3SEM/blob/main/sprints/sprint02/banco-de-dados.jpg">
