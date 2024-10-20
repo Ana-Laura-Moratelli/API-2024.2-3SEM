@@ -81,3 +81,14 @@ Deve haver um indicador visual para os projetos que faltam na semana para a conc
 
 <h2>Modelo de Dados</h2>
 <img src="https://github.com/Sync-FATEC/API-2024.2-3SEM/blob/main/sprints/sprint02/banco-de-dados.jpg">
+
+<h2>DoD (Definition of Done)</h2>
+
+<h2>Mockups</h2>
+<h3>Usuário Comum </h3>
+
+<video src="https://github.com/user-attachments/assets/dac3fc30-209e-43ab-837f-98d87c091e85"></video>
+
+<h3>Usuário Administrador </h3>
+
+<video src="https://github.com/user-attachments/assets/447d8f77-db7b-402f-8c95-ad4173d8b956"></video>
