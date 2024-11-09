@@ -194,7 +194,7 @@ para proteger informações confidenciais e garantir que apenas usuários autori
             <td>BAIXA</td>
             <td>Como administrador, eu quero visualizar um histórico de alterações de cada projeto, para rastrear todas as edições realizadas e garantir a integridade dos dados.</td>
             <td>8</td>
-            <td>4</td>
+            <td>3</td>
             <td>2</td>
         </tr>
         <tr align="center">
@@ -202,7 +202,7 @@ para proteger informações confidenciais e garantir que apenas usuários autori
             <td>BAIXA</td>
             <td>Como administrador, eu quero exportar os dados dos dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.</td>
             <td>8</td>
-            <td>4</td>
+            <td>3</td>
             <td>5</td>
         </tr>
         <tr align="center">
@@ -210,7 +210,7 @@ para proteger informações confidenciais e garantir que apenas usuários autori
             <td>BAIXA</td>
             <td>Como administrador, eu quero exportar dados de um projeto selecionado, para obter uma visão geral e rápida do estado do projeto.</td>
             <td>8</td>
-            <td>4</td>
+            <td>3</td>
             <td>5</td>
         </tr>
     </tbody>
