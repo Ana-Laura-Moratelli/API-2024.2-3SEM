@@ -191,7 +191,7 @@ para proteger informações confidenciais e garantir que apenas usuários autori
         </tr>
         <tr align="center">
             <td>17</td>
-            <td>BAIXA</td>
+            <td>MÉDIA</td>
             <td>Como administrador, eu quero visualizar um histórico de alterações de cada projeto, para rastrear todas as edições realizadas e garantir a integridade dos dados.</td>
             <td>8</td>
             <td>3</td>
@@ -199,7 +199,7 @@ para proteger informações confidenciais e garantir que apenas usuários autori
         </tr>
         <tr align="center">
             <td>18</td>
-            <td>BAIXA</td>
+            <td>MÉDIA</td>
             <td>Como administrador, eu quero exportar os dados dos dashboards dos projetos, para obter uma visão geral e rápida do estado dos projetos.</td>
             <td>8</td>
             <td>3</td>
@@ -207,11 +207,139 @@ para proteger informações confidenciais e garantir que apenas usuários autori
         </tr>
         <tr align="center">
             <td>19</td>
-            <td>BAIXA</td>
+            <td>MÉDIA</td>
             <td>Como administrador, eu quero exportar dados de um projeto selecionado, para obter uma visão geral e rápida do estado do projeto.</td>
             <td>8</td>
             <td>3</td>
             <td>5</td>
+        </tr>
+        <tr align="center">
+            <td>20</td>
+            <td>MÉDIA</td>
+            <td>Como administrador, eu quero salvar um rascunho no cadastro de projetos para que eu possa continuar o preenchimento posteriormente antes de publicar o projeto.</td>
+            <td>3</td>
+            <td>4</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>21</td>
+            <td>MÉDIA</td>
+            <td>Como administrador, eu quero salvar um rascunho ao editar um projeto existente para que eu possa revisar as mudanças antes de publicá-las.</td>
+            <td>3</td>
+            <td>4</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>22</td>
+            <td>MÉDIA</td>
+            <td>Como administrador, eu quero ver uma lista de todos os rascunhos de projetos, para que eu possa identificar quais projetos estão com dados pendentes ao cadastrar e editar.</td>
+            <td>3</td>
+            <td>4</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>23</td>
+            <td>MÉDIA</td>
+            <td>Como administrador, eu quero poder editar um rascunho de projeto para atualizar ou concluir as informações antes de publicá-lo.</td>
+            <td>3</td>
+            <td>4</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>24</td>
+            <td>MÉDIA</td>
+            <td>Como administrador, eu quero excluir um rascunho de projeto para remover rascunhos desnecessários ou incorretos do sistema.</td>
+            <td>3</td>
+            <td>4</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>25</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero receber uma notificação por e-mail no dia que o projeto estiver de expirar para que eu possa tomar ações preventivas.</td>
+            <td>3</td>
+            <td>4</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>26</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero registrar informações de bolsistas, incluindo dados pessoais, tipo de bolsa, duração e área de atuação, e vinculá-los a um projeto.</td>
+            <td>5</td>
+            <td>4</td>
+            <td>4</td>
+        </tr>
+        <tr align="center">
+            <td>27</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero ver uma lista de todos os bolsistas registrados, para visualizar rapidamente as informações de cada um.</td>
+            <td>3</td>
+            <td>4</td>
+            <td>4</td>
+        </tr>
+        <tr align="center">
+            <td>28</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero poder editar as informações de um bolsista para manter os dados atualizados.</td>
+            <td>5</td>
+            <td>4</td>
+            <td>4</td>
+        </tr>
+        <tr align="center">
+            <td>29</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero poder excluir bolsistas do sistema para remover registros desatualizados ou incorretos.</td>
+            <td>3</td>
+            <td>4</td>
+            <td>4</td>
+        </tr>
+        <tr align="center">
+            <td>30</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero ter a opção de gerar um plano de trabalho ao cadastrar um projeto para anexá-lo ao acordo de parceria para pesquisa e desenvolvimento entre a empresa e a fundação.</td>
+            <td>5</td>
+            <td>4</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>31</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero que o plano de trabalho preencha automaticamente campos específicos de um modelo Word, para facilitar a criação do documento.</td>
+            <td>8</td>
+            <td>4</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>32</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero que o plano de trabalho gerado seja salvo e acessível no sistema para futuras consultas e revisões.</td>
+            <td>5</td>
+            <td>4</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>33</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero poder criar um contrato com as informações do contratante, pesquisador, prazos e valores, para formalizar o acordo de parceria entre a empresa e a fundação.</td>
+            <td>5</td>
+            <td>4</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>34</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero que o contrato preencha automaticamente campos específicos de um modelo Word, para facilitar a criação do documento.</td>
+            <td>8</td>
+            <td>4</td>
+            <td>2</td>
+        </tr>
+        <tr align="center">
+            <td>35</td>
+            <td>BAIXA</td>
+            <td>Como administrador, eu quero que o contrato gerado seja salvo e acessível no sistema para futuras consultas e revisões.</td>
+            <td>5</td>
+            <td>4</td>
+            <td>2</td>
         </tr>
     </tbody>
 </table>
@@ -297,18 +425,17 @@ para proteger informações confidenciais e garantir que apenas usuários autori
     <td>21/10/2024</td>
     <td>10/11/2024</td>
     <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/sprints/sprint03/sprint03.md">Relatório</a></td> 
-    <td>🔁</td>
+    <td>✅</td>
   </tr>
   <tr align="center">
     <td>04</td>
     <td>11/11/2024</td>
     <td>01/12/2024</td>
-    <td>Em desenvolvimento!</td> 
-    <td>❌</td>
+    <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/sprints/sprint04/sprint04.md">Relatório</a></td> 
+    <td>🔁</td>
   </tr>
 </tbody>
 </table>
-
 
 <br>
 
