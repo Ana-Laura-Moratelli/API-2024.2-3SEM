@@ -52,3 +52,11 @@ para proteger informações confidenciais e garantir que apenas usuários autori
 
 <h2>Modelo de Dados</h2>
 <img src="https://github.com/Sync-FATEC/API-2024.2-3SEM/blob/main/sprints/sprint03/banco-de-dados.jpg">
+
+<h2>Mockups</h2>
+<h3>Usuário Comum </h3>
+
+<video src="https://github.com/user-attachments/assets/5d163363-eab0-4ea6-a4f5-301ee7da3774"></video>
+
+<h3>Usuário Administrador</h3>
+<video src="https://github.com/user-attachments/assets/98bdb871-e4aa-4677-b890-819e8535af9b"></video>
