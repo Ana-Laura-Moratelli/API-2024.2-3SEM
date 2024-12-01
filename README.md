@@ -432,7 +432,7 @@ para proteger informações confidenciais e garantir que apenas usuários autori
     <td>11/11/2024</td>
     <td>01/12/2024</td>
     <td><a href="https://github.com/Sync-FATEC/API-2024.2-3SEM/tree/main/sprints/sprint04/sprint04.md">Relatório</a></td> 
-    <td>🔁</td>
+    <td>✅</td>
   </tr>
 </tbody>
 </table>
