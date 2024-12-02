@@ -391,7 +391,7 @@ para proteger informações confidenciais e garantir que apenas usuários autori
 <br>
 
 <h2 id='mvp'>📎 MVP</h2>
-<video src="https://github.com/user-attachments/assets/1f5b4ffa-f209-4c18-b8c3-363f96898a95"></video>
+<video src="https://github.com/user-attachments/assets/f425351a-667b-43a9-a8eb-d87ff28b6991"></video>
 
 <h2 id='sprints'> 📌 Sprints </h2>
 
