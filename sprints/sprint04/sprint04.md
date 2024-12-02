@@ -129,3 +129,12 @@
 
 <h2>Modelo de Dados</h2>
 <img src="https://github.com/Sync-FATEC/API-2024.2-3SEM/blob/main/sprints/sprint04/banco-de-dados.jpg">
+
+<h2>Mockups</h2>
+<h3>Usuário Comum </h3>
+
+<video src="https://github.com/user-attachments/assets/864694e2-cfd6-46c4-a0bc-e7ab71f8b3c7"></video>
+
+<h3>Usuário Administrador</h3>
+<video src="https://github.com/user-attachments/assets/83c3bc2e-186e-435e-9300-2a30f323a24b"></video>
+
